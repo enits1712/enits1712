@@ -21,10 +21,10 @@
 
 <div align = "center">
 <h1><i>Stats</i></h1>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enits1712&show_icons=true&theme=darcula&bg_color=00000000&count_private=true" alt="enits1712" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enits1712" alt="enits1712" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enits1712&show_icons=true&theme=vision-friendly-dark&bg_color=00000000&count_private=true" alt="enits1712" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enits1712&theme=vision-friendly-dark&bg_color=00000000" alt="enits1712" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enits1712&show_icons=true&locale=en&layout=compact&theme=darcula&bg_color=00000000)" alt="enits1712" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enits1712&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&bg_color=00000000" alt="enits1712" /></p>
 
 <div align = "center">
 <h2 align="center"><i>My Technology Stack</i></h2>
