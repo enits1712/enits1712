@@ -30,15 +30,15 @@
 <h2 align="center"><i>My Technology Stack</i></h2>
 <hr>
 <p align="center"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
-           <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="47" />
+           <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="47" /> <a href="https://www.uipath.com/" target="_blank" rel="noreferrer">  <img src="https://media.glassdoor.com/sqls/1102519/uipath-squarelogo-1571834817890.png" alt="uipath" width="45" height="47" />
           </a> </p>
 <hr>
 <p align="center">
 
-<h2 align="center"><i>Reach me at:</i></h2>
+<h2 align="center"><i>Reach me at</i></h2>
 <a href="https://twitter.com/enits1712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="enits1712" height="40" width="50" /></a>
 <a href="https://linkedin.com/in/enits1712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enits1712" height="35" width="50" /></a>
 </p>
 
-<h2 align="center"><i>Support:</i></h2>
+<h2 align="center"><i>Support</i></h2>
 <p><a href="https://www.buymeacoffee.com/enits1712"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="https://www.buymeacoffee.com/enits1712" /></a></p><br><br>
